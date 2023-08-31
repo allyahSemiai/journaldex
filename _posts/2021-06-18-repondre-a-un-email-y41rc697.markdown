@@ -1,3 +1,12 @@
+---
+layout: post  # Indique le modèle de mise en page à utiliser (peut être personnalisé).
+title: Titre de l'article  # Le titre de votre article.
+date: YYYY-MM-JJ HH:MM:SS  # Date de publication au format ISO 8601.
+categories: [Catégorie1, Catégorie2]  # Les catégories associées à l'article (peut être une liste).
+tags: [Tag1, Tag2]  # Les balises ou mots-clés associés à l'article (peut être une liste).
+author: Votre Nom  # Le nom de l'auteur de l'article.
+image: /chemin/vers/image.jpg  # Chemin vers une image à utiliser en lien avec l'article (facultatif).
+---
 
 Comment écrire un email 
 
