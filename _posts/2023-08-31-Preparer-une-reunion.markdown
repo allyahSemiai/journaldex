@@ -1,4 +1,9 @@
-Plan d'Action Méthodologique Avant les Réunions
+---
+layout: post
+title:  "Plan d'Action Méthodologique Avant les Réunions"
+date:   2023-08-31 09:39:11 +0200
+categories: jekyll update
+---Plan d'Action Méthodologique Avant les Réunions
 
 1. Définir l'Objectif :
    - Identifier clairement l'objectif principal de la réunion.
