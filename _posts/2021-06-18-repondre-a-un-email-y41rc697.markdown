@@ -20,7 +20,7 @@ VENIR AVEC SA VOIX POUR CHAQUE REUNION. avoir sa voix de travail
 Les parties d'un email
 
    * Objet :Pour que mon destinataire comprenne le but de mon e-mail . C'est une Une phrase courte ( 5 mots max) 
-
+Penser à verifier la majuscule au début et le poin:t à la fin.
 
 **Appel; **Salutation .C'est une phrase pour  saluer  le destinataire. Faire attention au prénom du destinataire. Phrase courte. Ne pas oublier la virgule après le prénom. il faut l'adapter à ton destinataire et ta relation avec lui. pas de "Salut" à une personne que tu ne connais pas. 
 
